@@ -44,4 +44,7 @@
     - Proposer ce code pour la fusion 
         - (Pull Request)
     - Après la revue de code, fusionner le brouillon (branche) au main 
-        - (Merge Request) 
+        - (Merge Request)
+    - En local, 
+        - Switcher sur la branche `main`
+        - Mettre à jour la branche : `git pull origin main`

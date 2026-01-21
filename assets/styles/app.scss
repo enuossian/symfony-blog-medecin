@@ -1,7 +1,9 @@
-// assets/styles/global.scss
+// 1. Abstracts 
+@import "./abstracts/variables";
+@import "./base/typography";
 
-// customize some Bootstrap variables
-$primary: darken(#428bca, 20%);
 
 // the ~ allows you to reference things in node_modules
 @import "~bootstrap/scss/bootstrap";
+
+// 2. base
