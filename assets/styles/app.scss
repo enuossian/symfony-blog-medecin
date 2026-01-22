@@ -1,9 +1,17 @@
 // 1. Abstracts 
 @import "./abstracts/variables";
-@import "./base/typography";
-
 
 // the ~ allows you to reference things in node_modules
 @import "~bootstrap/scss/bootstrap";
 
-// 2. base
+// 2. Base
+@import "./base/typography";
+
+// 3. Components
+
+// 4.Layout
+
+// 5.Pages
+
+// 6.Themes
+@import "./themes/base_visitor";
