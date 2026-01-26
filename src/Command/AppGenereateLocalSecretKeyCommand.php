@@ -9,7 +9,7 @@ use Symfony\Component\Console\Output\OutputInterface;
 use Symfony\Component\Console\Style\SymfonyStyle;
 
 #[AsCommand(
-    name: 'app-generate-local-secret-key',
+    name: 'app:generate-local-secret-key',
     description: 'Creates .env.dev.local file and initialises the APP_SECRET key',
 )]
 class AppGenerateLocalSecretKeyCommand extends Command
