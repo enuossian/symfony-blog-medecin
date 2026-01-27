@@ -48,3 +48,6 @@
     - En local,
         - Switcher sur la branche `main`
         - Le mettre à jour cette branche: `git pull origin main`
+
+
+<!-- End -->
